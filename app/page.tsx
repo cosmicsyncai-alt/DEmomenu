@@ -401,7 +401,7 @@ const themeConfigs: Record<string, ThemeConfig> = {
     welcomeBg: "#24170f", menuBg: "#f1e4d2", cardBg: "#fffaf4",
     primary: "#4b2e1f", dark: "#24170f", accent: "#c9a66b", accentSoft: "#ead8b9",
     text: "#38251a", muted: "#765d49", border: "#eadbc8",
-    banner: false, icon: "🍽️", greeting: "", subtitle: "Fry Nation Restro & Café",
+    banner: false, icon: "🍽️", greeting: "", subtitle: "Spice Zone No. 1",
     description: "Delicious food, refreshing drinks & good vibes.",
     cta: "View Menu", specialTitle: "", specialLabel: "", specialNote: "",
   },
@@ -428,7 +428,7 @@ const themeConfigs: Record<string, ThemeConfig> = {
     name: "Vasant Panchami", welcomeBg: "#5a4108", menuBg: "#fffdf0", cardBg: "#fffef8",
     primary: "#b68b00", dark: "#5a4108", accent: "#f0c419", accentSoft: "#fff1a8",
     text: "#5a430b", muted: "#806b35", border: "#eadb9c",
-    banner: true, icon: "🌼", greeting: "Happy Vasant Panchami", subtitle: "A bright day at Fry Nation",
+    banner: true, icon: "🌼", greeting: "Happy Vasant Panchami", subtitle: "A bright day at Spice Zone No. 1",
     description: "Fresh colours, warm hospitality and delicious food.",
     cta: "🌼 View Menu", specialTitle: "Festive Favourites", specialLabel: "Bright Picks", specialNote: "A cheerful spread for the season.",
   },
@@ -437,7 +437,7 @@ const themeConfigs: Record<string, ThemeConfig> = {
     name: "Maha Shivratri", welcomeBg: "#17122a", menuBg: "#f7f3ff", cardBg: "#ffffff",
     primary: "#5a3c8c", dark: "#17122a", accent: "#d8b45b", accentSoft: "#f0e3bd",
     text: "#34264e", muted: "#6d6280", border: "#ddd3ee",
-    banner: true, icon: "🔱", greeting: "Har Har Mahadev", subtitle: "Maha Shivratri at Fry Nation",
+    banner: true, icon: "🔱", greeting: "Har Har Mahadev", subtitle: "Maha Shivratri at Spice Zone No. 1",
     description: "A calm, elegant festive theme for a special evening.",
     cta: "🔱 View Menu", specialTitle: "Special Picks", specialLabel: "Festive Mode", specialNote: "A warm place to pause, share and enjoy.",
   },
@@ -446,7 +446,7 @@ const themeConfigs: Record<string, ThemeConfig> = {
     name: "Valentine's Day", welcomeBg: "#3a101b", menuBg: "#fff5f7", cardBg: "#ffffff",
     primary: "#a52b4b", dark: "#3a101b", accent: "#e7a3b5", accentSoft: "#f8dce4",
     text: "#5a1f31", muted: "#8b5b69", border: "#efd1da",
-    banner: true, icon: "❤️", greeting: "Love & Good Food", subtitle: "Valentine's at Fry Nation",
+    banner: true, icon: "❤️", greeting: "Love & Good Food", subtitle: "Valentine's at Spice Zone No. 1",
     description: "Make the moment special with food worth sharing.",
     cta: "❤️ View Valentine's Menu", specialTitle: "Date Night Favourites", specialLabel: "For Two", specialNote: "Good food tastes better when shared.",
   },
@@ -464,7 +464,7 @@ const themeConfigs: Record<string, ThemeConfig> = {
     name: "Eid", welcomeBg: "#073b35", menuBg: "#f5fbf8", cardBg: "#ffffff",
     primary: "#087a65", dark: "#073b35", accent: "#d5b45a", accentSoft: "#f4e7bb",
     text: "#17473f", muted: "#5e7770", border: "#d6e6e1",
-    banner: true, icon: "🌙", greeting: "Eid Mubarak", subtitle: "Celebrate together at Fry Nation",
+    banner: true, icon: "🌙", greeting: "Eid Mubarak", subtitle: "Celebrate together at Spice Zone No. 1",
     description: "Warm hospitality, great food and moments worth sharing.",
     cta: "🌙 View Eid Menu", specialTitle: "Eid Favourites", specialLabel: "Special Picks", specialNote: "Celebrate together around a delicious table.",
   },
@@ -473,7 +473,7 @@ const themeConfigs: Record<string, ThemeConfig> = {
     name: "Ram Navami", welcomeBg: "#5b1a12", menuBg: "#fff8f2", cardBg: "#fffdf9",
     primary: "#a63b16", dark: "#5b1a12", accent: "#e2ad39", accentSoft: "#f8e6b0",
     text: "#5b2b1e", muted: "#815d4f", border: "#edd6c8",
-    banner: true, icon: "🏹", greeting: "Jai Shri Ram", subtitle: "Ram Navami at Fry Nation",
+    banner: true, icon: "🏹", greeting: "Jai Shri Ram", subtitle: "Ram Navami at Spice Zone No. 1",
     description: "A warm festive atmosphere with food and togetherness.",
     cta: "🏹 View Menu", specialTitle: "Festive Favourites", specialLabel: "Celebration Picks", specialNote: "Share good food and good moments.",
   },
@@ -482,7 +482,7 @@ const themeConfigs: Record<string, ThemeConfig> = {
     name: "Easter", welcomeBg: "#284d4a", menuBg: "#f4fbfa", cardBg: "#ffffff",
     primary: "#347c75", dark: "#284d4a", accent: "#e6c86e", accentSoft: "#f7ebbd",
     text: "#244b47", muted: "#62807c", border: "#d7e7e4",
-    banner: true, icon: "🐣", greeting: "Happy Easter", subtitle: "A cheerful day at Fry Nation",
+    banner: true, icon: "🐣", greeting: "Happy Easter", subtitle: "A cheerful day at Spice Zone No. 1",
     description: "Fresh energy, good food and a table full of smiles.",
     cta: "🐣 View Menu", specialTitle: "Easter Favourites", specialLabel: "Special Picks", specialNote: "Keep the celebration bright and delicious.",
   },
@@ -536,7 +536,7 @@ const themeConfigs: Record<string, ThemeConfig> = {
     name: "Ganesh Chaturthi", welcomeBg: "#54200e", menuBg: "#fff8f0", cardBg: "#fffdf9",
     primary: "#b84b18", dark: "#54200e", accent: "#e0ad3f", accentSoft: "#f8e4ad",
     text: "#5a2d19", muted: "#81614f", border: "#ecd7c8",
-    banner: true, icon: "🐘", greeting: "Ganpati Bappa Morya", subtitle: "Ganesh Chaturthi at Fry Nation",
+    banner: true, icon: "🐘", greeting: "Ganpati Bappa Morya", subtitle: "Ganesh Chaturthi at Spice Zone No. 1",
     description: "A warm festive celebration with great food and great company.",
     cta: "🐘 View Menu", specialTitle: "Ganesh Chaturthi Favourites", specialLabel: "Festive Picks", specialNote: "Celebrate the day with warmth and togetherness.",
   },
@@ -554,7 +554,7 @@ const themeConfigs: Record<string, ThemeConfig> = {
     name: "Durga Puja", welcomeBg: "#4b0b13", menuBg: "#fff8f0", cardBg: "#fffdf9",
     primary: "#8f1520", dark: "#3b0710", accent: "#d7a51a", accentSoft: "#f8e4a3",
     text: "#5b1018", muted: "#7d4548", border: "#e7b8a9",
-    banner: true, icon: "🌺", greeting: "🌺 Shubho Durga Puja 🌺", subtitle: "Fry Nation Restro & Café",
+    banner: true, icon: "🌺", greeting: "🌺 Shubho Durga Puja 🌺", subtitle: "Spice Zone No. 1",
     description: "Celebrate • Dine • Enjoy",
     cta: "🌺 View Festival Menu", specialTitle: "Puja Favourites", specialLabel: "Special Picks", specialNote: "A festive selection made for sharing good food and good moments.",
   },
@@ -572,7 +572,7 @@ const themeConfigs: Record<string, ThemeConfig> = {
     name: "Karwa Chauth", welcomeBg: "#421322", menuBg: "#fff5f8", cardBg: "#ffffff",
     primary: "#9e3157", dark: "#421322", accent: "#d9a35d", accentSoft: "#f5e0bd",
     text: "#5c2639", muted: "#805d69", border: "#ecd4dc",
-    banner: true, icon: "🌙", greeting: "Karwa Chauth", subtitle: "A special evening at Fry Nation",
+    banner: true, icon: "🌙", greeting: "Karwa Chauth", subtitle: "A special evening at Spice Zone No. 1",
     description: "A soft, elegant festive theme for the evening.",
     cta: "🌙 View Menu", specialTitle: "Evening Favourites", specialLabel: "Special Picks", specialNote: "A beautiful table for a special evening.",
   },
@@ -608,7 +608,7 @@ const themeConfigs: Record<string, ThemeConfig> = {
     name: "Christmas", welcomeBg: "#123c2b", menuBg: "#f8fbf6", cardBg: "#ffffff",
     primary: "#a52b2b", dark: "#123c2b", accent: "#d6b65a", accentSoft: "#f4e9bd",
     text: "#234b38", muted: "#60766a", border: "#d8e5dc",
-    banner: true, icon: "🎄", greeting: "Merry Christmas", subtitle: "Christmas at Fry Nation",
+    banner: true, icon: "🎄", greeting: "Merry Christmas", subtitle: "Christmas at Spice Zone No. 1",
     description: "Celebrate the season with delicious food and festive vibes.",
     cta: "🎄 View Christmas Menu", specialTitle: "Christmas Favourites", specialLabel: "Festive Picks", specialNote: "A little extra festive, a lot more delicious.",
   },
@@ -715,9 +715,7 @@ const taxSettings = {
 
 
 
-const googleReviewUrl =
-
-  "https://www.google.com/search?sca_esv=1ef16b6696f8b5b3&sxsrf=APpeQnvYdIYBDOuzzzpF13oZTf_8x7Nb7w:1791358702519&q=fry+nation&si=APenkKm7iecQ4G6P-TsbSMFKIQtv3EFIqRAFw-i8uEbk55Z-_ynKgjzO38CyOtpFOC3Pb2tAka8DqqgVwGG-M96X9YdSc1WBJiVcwuG1JKl8oEuRhCRV7WWHLb0kGfUrmz16yF6yz9P_rzvzBU8z7KDPD-ms5pFcpA%3D%3D&sa=X&ved=2ahUKEwiWoYOZs6eXAxVTm-EIHc-RO5YQrrQLegQIHRAA&biw=1920&bih=945&dpr=1";
+const googleReviewUrl = ""; // TODO: Add Spice Zone No. 1 official Google review URL after confirmation.
 
 
 
@@ -932,7 +930,7 @@ export default function Home() {
                 Welcome to
               </p>
               <h1 className="max-w-2xl text-4xl font-bold tracking-tight sm:text-6xl">
-                Fry Nation
+                Spice Zone No. 1
               </h1>
               <p className="mt-2 text-lg text-[#d7c3ae]">Restro & Café</p>
               <p className="mx-auto mt-6 max-w-md text-sm leading-6 text-[#bda996]">
@@ -966,7 +964,7 @@ export default function Home() {
 
           <div className="mb-8 text-center">
             <p className="text-sm uppercase tracking-[0.3em]" style={{ color: theme.primary }}>
-              Fry Nation
+              Spice Zone No. 1
             </p>
 
             <h2 className="mt-3 text-4xl font-bold" style={{ color: theme.text }}>
@@ -976,6 +974,10 @@ export default function Home() {
             <p className="mt-3 text-sm" style={{ color: theme.muted }}>
               Choose a category to explore
             </p>
+            <div className="mx-auto mt-4 max-w-xl rounded-xl border px-4 py-3 text-sm font-medium"
+              style={{ borderColor: theme.accent, backgroundColor: theme.cardBg, color: theme.text }}>
+              DEMO PREVIEW — menu items, prices, contact details and tax settings must be confirmed by Spice Zone No. 1 before launch.
+            </div>
 
             {previewMode && (
               <div className="mx-auto mt-4 max-w-xs">
@@ -1338,7 +1340,7 @@ export default function Home() {
 
               <div>
 
-                <p className="text-xs text-white/60">Fry Nation Restro & Café</p>
+                <p className="text-xs text-white/60">Spice Zone No. 1</p>
 
                 <h2 className="text-xl font-bold">Your Order</h2>
 
@@ -1540,7 +1542,7 @@ export default function Home() {
 
                     <p className="mt-1 text-xs text-[#8a7563]">
 
-                      Your feedback helps Fry Nation grow.
+                      Your feedback helps Spice Zone No. 1 grow.
 
                     </p>
 
@@ -1738,7 +1740,7 @@ export default function Home() {
 
             <a
 
-              href="https://maps.google.com/"
+              href="#"
 
               target="_blank"
 
@@ -1754,7 +1756,7 @@ export default function Home() {
 
             <a
 
-              href="https://wa.me/919999999999"
+              href="https://wa.me/"
 
               target="_blank"
 
@@ -1770,7 +1772,7 @@ export default function Home() {
 
             <a
 
-              href="tel:+919999999999"
+              href="tel:"
 
               className="rounded-2xl bg-[#38251a] px-4 py-4 font-medium text-[#f5eadc] transition hover:bg-[#4b3324]"
 
@@ -1782,7 +1784,7 @@ export default function Home() {
 
             <a
 
-              href="https://instagram.com/"
+              href="#"
 
               target="_blank"
 
@@ -1808,7 +1810,7 @@ export default function Home() {
 
       <footer className="border-t px-6 py-12 text-center text-[#f5eadc]" style={{ backgroundColor: theme.dark, borderColor: theme.primary }}>
 
-        <h3 className="text-xl font-bold">Fry Nation Restro & Café</h3>
+        <h3 className="text-xl font-bold">Spice Zone No. 1</h3>
 
         <p className="mt-2 text-sm text-[#a9917c]">
 
@@ -1854,7 +1856,7 @@ export default function Home() {
 
         <p className="mt-8 text-xs text-[#705b4b]">
 
-          © 2026 Fry Nation Restro & Café
+          © 2026 Spice Zone No. 1
 
         </p>
 
